@@ -1,0 +1,20 @@
+{
+  "omega-3": {
+    "local_path": "assets/img/content/omega-3.jpg",
+    "attribution_html": "Foto: Photo by px9p2re5 per Open Products Facts / <a href=\"https://commons.wikimedia.org/wiki/File%3AAlgae_oil_pills_%28Vegan_Omega-3_DHA-EPA_300_mg_-_Deva_-_90_softgels_Ingredients%29.jpg\" rel=\"nofollow\">Wikimedia Commons</a> / <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"nofollow\">CC BY-SA 3.0</a>",
+    "wiki_page": "https://commons.wikimedia.org/wiki/File%3AAlgae_oil_pills_%28Vegan_Omega-3_DHA-EPA_300_mg_-_Deva_-_90_softgels_Ingredients%29.jpg",
+    "license": "CC BY-SA 3.0"
+  },
+  "ajo": {
+    "local_path": "assets/img/content/ajo.jpg",
+    "attribution_html": "Foto: Luis Miguel Bugallo Sánchez (Lmbuga) / <a href=\"https://commons.wikimedia.org/wiki/File%3AAllium_sativum._Restra_de_allos_de_Oroso-_Galiza.jpg\" rel=\"nofollow\">Wikimedia Commons</a> / <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"nofollow\">CC BY-SA 3.0</a>",
+    "wiki_page": "https://commons.wikimedia.org/wiki/File%3AAllium_sativum._Restra_de_allos_de_Oroso-_Galiza.jpg",
+    "license": "CC BY-SA 3.0"
+  },
+  "coenzima-q10": {
+    "source": "wikimedia",
+    "url": "https://commons.wikimedia.org/wiki/File:Coenzyme_Q10_powder.jpg",
+    "license": "CC BY-SA 4.0",
+    "file": "coenzima-q10.jpg"
+  }
+}
