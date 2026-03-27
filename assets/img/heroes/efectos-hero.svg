@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" width="800" height="300">
+  <defs>
+    <linearGradient id="bg3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#eff6ff"/>
+      <stop offset="100%" style="stop-color:#dbeafe"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="300" fill="url(#bg3)" rx="12"/>
+  <!-- Shield icon -->
+  <g transform="translate(80,50)">
+    <path d="M60 10 L110 30 L110 90 C110 140 60 170 60 170 C60 170 10 140 10 90 L10 30 Z" fill="#3b82f6" opacity="0.15" stroke="#3b82f6" stroke-width="2"/>
+    <path d="M60 10 L110 30 L110 90 C110 140 60 170 60 170 C60 170 10 140 10 90 L10 30 Z" fill="none" stroke="#2563eb" stroke-width="2.5"/>
+    <text x="60" y="105" text-anchor="middle" fill="#2563eb" font-size="50">✓</text>
+  </g>
+  <!-- Safety indicators -->
+  <g transform="translate(220,70)">
+    <rect x="0" y="0" width="140" height="36" rx="8" fill="white" stroke="#22c55e" stroke-width="2"/>
+    <circle cx="22" cy="18" r="8" fill="#22c55e"/>
+    <text x="22" y="23" text-anchor="middle" fill="white" font-size="12" font-weight="bold">✓</text>
+    <text x="80" y="23" text-anchor="middle" fill="#15803d" font-size="13" font-family="Arial">Sin efectos graves</text>
+
+    <rect x="0" y="50" width="140" height="36" rx="8" fill="white" stroke="#f59e0b" stroke-width="2"/>
+    <circle cx="22" cy="68" r="8" fill="#f59e0b"/>
+    <text x="22" y="73" text-anchor="middle" fill="white" font-size="12" font-weight="bold">!</text>
+    <text x="80" y="73" text-anchor="middle" fill="#92400e" font-size="13" font-family="Arial">Leves y temporales</text>
+
+    <rect x="0" y="100" width="140" height="36" rx="8" fill="white" stroke="#3b82f6" stroke-width="2"/>
+    <circle cx="22" cy="118" r="8" fill="#3b82f6"/>
+    <text x="22" y="123" text-anchor="middle" fill="white" font-size="12" font-weight="bold">i</text>
+    <text x="80" y="123" text-anchor="middle" fill="#1e40af" font-size="13" font-family="Arial">Consulta médico</text>
+  </g>
+  <!-- Text -->
+  <text x="460" y="100" font-family="Georgia, serif" font-size="26" fill="#1e3a5f" font-weight="bold">Efectos Secundarios</text>
+  <text x="460" y="135" font-family="Georgia, serif" font-size="26" fill="#1e3a5f" font-weight="bold">y Seguridad</text>
+  <text x="460" y="180" font-family="Arial, sans-serif" font-size="14" fill="#64748b">Perfil de seguridad por ingrediente</text>
+  <text x="460" y="200" font-family="Arial, sans-serif" font-size="14" fill="#64748b">Basado en estudios clínicos</text>
+  <text x="460" y="245" font-family="Georgia, serif" font-size="16" fill="#2563eb">Transparencia total sobre</text>
+  <text x="460" y="268" font-family="Georgia, serif" font-size="16" fill="#2563eb">lo que puedes esperar</text>
+</svg>

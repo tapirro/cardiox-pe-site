@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" width="800" height="300">
+  <defs>
+    <linearGradient id="bg2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#fef2f2"/>
+      <stop offset="100%" style="stop-color:#fce7f3"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="300" fill="url(#bg2)" rx="12"/>
+  <!-- Pill left -->
+  <g transform="translate(60,90)">
+    <rect x="0" y="0" width="80" height="40" rx="20" fill="#dc2626" opacity="0.8"/>
+    <rect x="40" y="0" width="40" height="40" rx="0 20 20 0" fill="#ef4444" opacity="0.8"/>
+    <text x="40" y="27" text-anchor="middle" fill="white" font-size="12" font-family="Arial" font-weight="bold">Rx</text>
+  </g>
+  <!-- Arrow / interaction -->
+  <g transform="translate(160,95)">
+    <line x1="0" y1="15" x2="60" y2="15" stroke="#f59e0b" stroke-width="3" stroke-dasharray="8,4"/>
+    <polygon points="55,8 70,15 55,22" fill="#f59e0b"/>
+    <text x="35" y="45" text-anchor="middle" fill="#f59e0b" font-size="11" font-family="Arial" font-weight="bold">⚡</text>
+  </g>
+  <!-- Herb right -->
+  <g transform="translate(240,70)">
+    <ellipse cx="35" cy="50" rx="30" ry="50" fill="#22c55e" opacity="0.6" transform="rotate(-15,35,50)"/>
+    <line x1="35" y1="5" x2="35" y2="100" stroke="#15803d" stroke-width="2"/>
+    <circle cx="35" cy="15" r="8" fill="#fbbf24" opacity="0.7"/>
+  </g>
+  <!-- Severity badges -->
+  <g transform="translate(350,60)">
+    <rect x="0" y="0" width="90" height="28" rx="14" fill="#dc2626"/>
+    <text x="45" y="19" text-anchor="middle" fill="white" font-size="12" font-family="Arial" font-weight="bold">ALTA</text>
+    <rect x="0" y="40" width="90" height="28" rx="14" fill="#f59e0b"/>
+    <text x="45" y="59" text-anchor="middle" fill="white" font-size="12" font-family="Arial" font-weight="bold">MODERADA</text>
+    <rect x="0" y="80" width="90" height="28" rx="14" fill="#22c55e"/>
+    <text x="45" y="99" text-anchor="middle" fill="white" font-size="12" font-family="Arial" font-weight="bold">BAJA</text>
+    <rect x="0" y="120" width="90" height="28" rx="14" fill="#3b82f6"/>
+    <text x="45" y="139" text-anchor="middle" fill="white" font-size="12" font-family="Arial" font-weight="bold">SINÉRGICO</text>
+  </g>
+  <!-- Text -->
+  <text x="500" y="100" font-family="Georgia, serif" font-size="26" fill="#1e3a5f" font-weight="bold">Interacciones</text>
+  <text x="500" y="135" font-family="Georgia, serif" font-size="26" fill="#1e3a5f" font-weight="bold">Medicamentosas</text>
+  <text x="500" y="180" font-family="Arial, sans-serif" font-size="14" fill="#64748b">12 interacciones documentadas</text>
+  <text x="500" y="200" font-family="Arial, sans-serif" font-size="14" fill="#64748b">con niveles de severidad</text>
+  <text x="500" y="240" font-family="Georgia, serif" font-size="18" fill="#dc2626" font-weight="bold">¿Se puede tomar con</text>
+  <text x="500" y="265" font-family="Georgia, serif" font-size="18" fill="#dc2626" font-weight="bold">tu medicamento?</text>
+</svg>
