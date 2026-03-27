@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" width="800" height="300">
+  <defs>
+    <linearGradient id="bg3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#fefce8"/>
+      <stop offset="100%" style="stop-color:#fef9c3"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="300" fill="url(#bg3)" rx="12"/>
+  <!-- Garlic bulb -->
+  <g transform="translate(70,40)">
+    <!-- Outer bulb -->
+    <ellipse cx="70" cy="100" rx="60" ry="70" fill="#f5f5f4" stroke="#d6d3d1" stroke-width="1.5"/>
+    <!-- Cloves -->
+    <ellipse cx="50" cy="80" rx="18" ry="35" fill="#e7e5e4" transform="rotate(-15,50,80)"/>
+    <ellipse cx="70" cy="75" rx="16" ry="38" fill="#e7e5e4"/>
+    <ellipse cx="90" cy="80" rx="18" ry="35" fill="#e7e5e4" transform="rotate(15,90,80)"/>
+    <!-- Stem -->
+    <rect x="62" y="25" width="16" height="30" rx="4" fill="#a8a29e"/>
+    <!-- Aged indicator (dark cloves) -->
+    <ellipse cx="50" cy="85" rx="12" ry="25" fill="#292524" opacity="0.6" transform="rotate(-15,50,85)"/>
+    <ellipse cx="70" cy="80" rx="10" ry="28" fill="#292524" opacity="0.5"/>
+    <ellipse cx="90" cy="85" rx="12" ry="25" fill="#292524" opacity="0.6" transform="rotate(15,90,85)"/>
+    <text x="70" y="185" text-anchor="middle" fill="#78716c" font-size="13" font-family="Arial">20 meses de</text>
+    <text x="70" y="202" text-anchor="middle" fill="#78716c" font-size="13" font-family="Arial">envejecimiento</text>
+  </g>
+  <!-- Arrow (transformation) -->
+  <g transform="translate(230,100)">
+    <path d="M0,30 L60,30 L60,10 L90,40 L60,70 L60,50 L0,50 Z" fill="#16a34a" opacity="0.5"/>
+  </g>
+  <!-- SAC molecule representation -->
+  <g transform="translate(340,50)">
+    <circle cx="40" cy="50" r="25" fill="#16a34a" opacity="0.7"/>
+    <text x="40" y="56" text-anchor="middle" fill="white" font-size="12" font-weight="bold" font-family="Arial">SAC</text>
+    <circle cx="95" cy="35" r="18" fill="#22c55e" opacity="0.6"/>
+    <text x="95" y="40" text-anchor="middle" fill="white" font-size="9" font-family="Arial">H₂S</text>
+    <circle cx="90" cy="80" r="16" fill="#4ade80" opacity="0.5"/>
+    <text x="90" y="85" text-anchor="middle" fill="white" font-size="9" font-family="Arial">NO</text>
+    <line x1="55" y1="40" x2="80" y2="35" stroke="#86efac" stroke-width="2"/>
+    <line x1="55" y1="60" x2="78" y2="75" stroke="#86efac" stroke-width="2"/>
+    <text x="70" y="130" text-anchor="middle" fill="#15803d" font-size="12" font-weight="bold" font-family="Arial">98% biodisponible</text>
+  </g>
+  <!-- Benefits stats -->
+  <g transform="translate(500,40)">
+    <rect x="0" y="0" width="250" height="55" rx="8" fill="white" opacity="0.9" stroke="#a3e635" stroke-width="1"/>
+    <text x="125" y="22" text-anchor="middle" fill="#15803d" font-size="22" font-weight="bold" font-family="Arial">-8.3 mmHg</text>
+    <text x="125" y="44" text-anchor="middle" fill="#64748b" font-size="12" font-family="Arial">presión sistólica (meta de 12 ensayos)</text>
+  </g>
+  <g transform="translate(500,110)">
+    <rect x="0" y="0" width="250" height="55" rx="8" fill="white" opacity="0.9" stroke="#a3e635" stroke-width="1"/>
+    <text x="125" y="22" text-anchor="middle" fill="#15803d" font-size="22" font-weight="bold" font-family="Arial">-80% placa</text>
+    <text x="125" y="44" text-anchor="middle" fill="#64748b" font-size="12" font-family="Arial">progresión calcificación (Budoff 2009)</text>
+  </g>
+  <!-- Title -->
+  <text x="500" y="215" font-family="Georgia, serif" font-size="22" fill="#1e3a5f" font-weight="bold">Ajo Envejecido</text>
+  <text x="500" y="243" font-family="Georgia, serif" font-size="18" fill="#1e3a5f">6 Beneficios Cardiovasculares</text>
+  <text x="500" y="270" font-family="Arial, sans-serif" font-size="14" fill="#64748b">900+ estudios publicados</text>
+</svg>
