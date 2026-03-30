@@ -458,17 +458,13 @@ body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;color:var(--slate
 </nav>
 
 <!-- HERO -->
-      <!-- PAIN AMPLIFICATION -->
-      <p style="color:var(--red-700); font-weight:600; margin-bottom:0.5rem; font-size:1.1rem;">
-        <strong>Cada 6 minutos, alguien muere de un ataque al corazón en Perú</strong>
-      </p>
 <section class="hero" id="inicio">
   <div class="hero-inner">
     <div class="hero-content reveal">
       <span class="hero-badge">Soporte Cardiovascular Natural</span>
-      <h1>CardioX 120/80 — La Primera Fórmula Peruana Validada Clínicamente para Presión Arterial <span>Protege tu corazón en 4 semanas</span></h1>
+      <h1>¿Presión arterial alta? CardioX 120/80 ayuda a mantener niveles saludables en 4 semanas <span>Presión arterial saludable</span></h1>
 <div class="eeat-updated"><svg viewBox="0 0 16 16"><path d="M8 0a8 8 0 1 0 0 16A8 8 0 0 0 8 0zm0 14.5A6.5 6.5 0 1 1 8 1.5a6.5 6.5 0 0 1 0 13zM8.5 4H7v5l4.3 2.5.7-1.2-3.5-2V4z"/></svg> Última actualización: 26 de marzo de 2026</div>
-      <p class="hero-desc">Combinación clínica de Omega-3 EPA/DHA + CoQ10 + ajo envejecido. Validado por especialistas. <strong>Últimos 50 envíos al 50% de descuento.</strong>
+      <p class="hero-desc"><p class="hero-desc">Recetado por especialistas. Omega-3 EPA/DHA + CoQ10 + ajo envejecido para presión, energía y circulación. Oferta limitada.</p><p class="hero-desc">Recetado por especialistas. Omega-3 EPA/DHA + CoQ10 + ajo envejecido para presión, energía y circulación. Oferta limitada.<p class="hero-desc">Recetado por especialistas. Omega-3 EPA/DHA + CoQ10 + ajo envejecido para presión, energía y circulación. Oferta limitada.<p class="hero-desc">Recetado por especialistas. Omega-3 EPA/DHA + CoQ10 + ajo envejecido para presión, energía y circulación. Oferta limitada.CardioX 120-80 combina 6 ingredientes respaldados por la ciencia para mantener tu presión arterial saludable, reducir el colesterol y fortalecer tu corazón.
       <a href="https://offerstore.app/cardiox/dp/?sub1=seo&sub2=cardiox.pe" class="hero-cta" rel="nofollow">
         Ordenar CardioX Ahora
         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5L21 12m0 0l-7.5 7.5M21 12H3"/></svg>
@@ -487,18 +483,6 @@ body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;color:var(--slate
           Resultados en 4-6 semanas
         </div>
       </div>
-      <!-- URGENCY BANNER -->
-      <div style="background:linear-gradient(135deg, #dc2626 0%, #b91c1c 100%); color:white; padding:1rem 1.5rem; border-radius:8px; text-align:center; margin:1rem auto 0; max-width:500px; box-shadow:0 4px 6px rgba(0,0,0,0.1);">
-        <div style="display:flex; align-items:center; justify-content:center; gap:0.75rem; flex-wrap:wrap;">
-          <span style="font-size:1.3rem;">🔥</span>
-          <div>
-            <strong style="display:block; font-size:1rem; letter-spacing:0.5px;">OFERTA ESPECIAL HOY</strong>
-            <span style="font-size:0.85rem;">Envío GRATIS + 50% OFF. Solo quedan 23 unidades.</span>
-          </div>
-          <span style="font-size:1.3rem;">🔥</span>
-        </div>
-      </div>
-
       <form id="lead-form-hero" class="lead-form" onsubmit="return submitLead(event, 'hero')">
         <h3>¡Ordena ahora con descuento!</h3>
         <div class="price-display"><span class="price-tag">S/139 PEN</span> <span class="price-note">· Envío gratis</span></div>
@@ -538,11 +522,7 @@ body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;color:var(--slate
       </div>
     </div>
   </div>
-</section>
-
-          <span style="font-size:1.5rem;">🔥</span>
-        </div>
-      </div><!-- TRUST BANNER -->
+</section><!-- TRUST BANNER -->
 <section class="trust-banner">
   <div class="trust-banner-inner">
     <div class="trust-item-block">
@@ -575,10 +555,6 @@ body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;color:var(--slate
   </div>
 </section>
 
-          <span style="font-size:1.5rem;">🔥</span>
-        </div>
-      </div>
-
 <!-- PROBLEM -->
 </section>
 
@@ -597,11 +573,7 @@ body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;color:var(--slate
       </div>
     </div>
   </div>
-</section>
-
-          <span style="font-size:1.5rem;">🔥</span>
-        </div>
-      </div></section>
+</section></section>
 
 <section class="why-section" id="por-que">
   <div class="section-inner" style="max-width: var(--content-w); margin: 0 auto; padding: 4rem 1.5rem;">
@@ -618,11 +590,7 @@ body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;color:var(--slate
       </div>
     </div>
   </div>
-</section>
-
-          <span style="font-size:1.5rem;">🔥</span>
-        </div>
-      </div><section class="problem" id="problema">
+</section><section class="problem" id="problema">
   <div class="problem-inner">
     <span class="section-label reveal">El problema</span>
     <h2 class="section-title reveal">¿Tu salud cardiovascular esta en riesgo?</h2>
@@ -653,10 +621,6 @@ body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;color:var(--slate
     </div>
   </div>
 </section>
-
-          <span style="font-size:1.5rem;">🔥</span>
-        </div>
-      </div>
 
 <!-- BENEFITS -->
 <section class="benefits" id="beneficios">
@@ -709,10 +673,6 @@ body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;color:var(--slate
     </div>
   </div>
 </section>
-
-          <span style="font-size:1.5rem;">🔥</span>
-        </div>
-      </div>
 
 <!-- INGREDIENTS -->
 <section class="ingredients" id="ingredientes">
@@ -788,10 +748,6 @@ body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;color:var(--slate
   </div>
 </section>
 
-          <span style="font-size:1.5rem;">🔥</span>
-        </div>
-      </div>
-
 <!-- TRUST -->
 <section class="trust" id="confianza">
   <div class="trust-inner">
@@ -816,10 +772,6 @@ body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;color:var(--slate
     </div>
   </div>
 </section>
-
-          <span style="font-size:1.5rem;">🔥</span>
-        </div>
-      </div>
 
 
 <!-- TESTIMONIALS -->
@@ -1289,7 +1241,7 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
 
     <noscript>
         <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 2rem auto; padding: 2rem; background: #fff; border-radius: 12px; border: 1px solid #e0e0e0; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-            <h1>CardioX 120/80 — La Primera Fórmula Peruana Validada Clínicamente para Presión Arterial <span>Protege tu corazón en 4 semanas</span></h1>
+            <h1>¿Presión arterial alta? CardioX 120/80 ayuda a mantener niveles saludables en 4 semanas <span>Presión arterial saludable</span></h1>
             <p style="color: #495057; margin: 1.5rem 0; font-size: 1.1rem; line-height: 1.8;">★4.7/5 en 47 opiniones. CardioX 120/80: Omega-3, CoQ10, ajo para presión arterial. Precio S/139. Estudios, efectos y dónde comprar en Perú.</p>
             <div style="background: #f8f9fa; padding: 1.5rem; border-radius: 8px; margin: 1.5rem 0;">
                 <p style="color: #6c757d; margin: 0 0 0.5rem 0; font-weight: 600;">Información del Producto</p>
