@@ -925,7 +925,7 @@ body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;color:var(--slate
       var sid='s_'+Date.now()+'_'+Math.random().toString(36).substr(2,6);
       var visId=(function(){try{var v=localStorage.getItem('hs_vid');if(!v){v='v_'+Date.now()+'_'+Math.random().toString(36).substr(2,8);localStorage.setItem('hs_vid',v)}return v}catch(e){return 'v_'+Date.now()}})();
       var vn=(function(){try{var n=parseInt(localStorage.getItem('hs_vn')||'0')+1;localStorage.setItem('hs_vn',String(n));return n}catch(e){return 1}})();
-      var embedV=28;
+      var embedV=29;
       var ua=navigator.userAgent||'';
       var ref=document.referrer||'';
       var sw=screen.width||0;
@@ -1081,7 +1081,7 @@ body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;color:var(--slate
           if(hasPlayed)showLeadForm();
         });
         v.addEventListener('timeupdate',function(){
-          if(hasPlayed&&playStartTime&&(Date.now()-playStartTime)>8000)showLeadForm();
+          if(hasPlayed&&playStartTime&&(Date.now()-playStartTime)>5000)showLeadForm();
         });
       });
       // Lead form submission
@@ -1204,6 +1204,8 @@ body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;color:var(--slate
         },{threshold:0});
         scrollObs.observe(section);
       }
+      // Page-time trigger: show form after 20s if user has interacted (even without video click)
+      setTimeout(function(){if(hadInteraction&&!formShown)showLeadForm()},20000);
       // Floating video CTA — draws attention to video section when it's below the fold
       // Appears after 5s, pulses, scrolls to videos on tap, hides when section is visible
       if(section){
@@ -1248,6 +1250,7 @@ body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;color:var(--slate
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Cómo cuidar el corazón de forma natural?", "acceptedAnswer": {"@type": "Answer", "text": "Tres pilares: omega-3 natural (salmón, sardinas o linaza 3 veces por semana reduce triglicéridos), reducir la sal (usar limón, ajo y hierbas para sazonar), y 30 minutos de actividad diaria (caminata rápida, bicicleta o baile)."}}, {"@type": "Question", "name": "¿Qué alimentos son buenos para el corazón?", "acceptedAnswer": {"@type": "Answer", "text": "Los mejores son pescados grasos (salmón, sardinas), frutos secos, aceite de oliva, ajo, linaza y frutas ricas en antioxidantes. Evita grasas trans, exceso de sal y azúcares procesados."}}, {"@type": "Question", "name": "¿Cuáles son los síntomas de problemas cardíacos?", "acceptedAnswer": {"@type": "Answer", "text": "Señales de alerta: dolor o presión en el pecho, dificultad para respirar al subir escaleras, cansancio extremo sin razón, hinchazón en piernas/tobillos, y palpitaciones irregulares. Si tienes dolor en el pecho con sudoración fría, busca atención médica inmediata."}}, {"@type": "Question", "name": "¿Cómo bajar el colesterol de forma natural?", "acceptedAnswer": {"@type": "Answer", "text": "Cinco cambios efectivos: avena diaria (fibra soluble atrapa colesterol), 30 min de ejercicio (sube el colesterol bueno HDL), aceite de oliva en lugar de mantequilla, más pescado y menos carne roja, y frutos secos como almendras o nueces (un puñado al día)."}}, {"@type": "Question", "name": "¿Qué ejercicios son mejores para el corazón?", "acceptedAnswer": {"@type": "Answer", "text": "Los cardíologos recomiendan: caminata rápida (30 min, 5 días/semana), natación, bicicleta y baile. Lo importante es la constancia, no la intensidad. Empieza con 10 min si eres sedentario y aumenta gradualmente. Evita esfuerzos extremos sin revisión médica previa."}}]}</script>
   <!-- hilart-shorts-video-embed -->
 
+      
       
       
       
