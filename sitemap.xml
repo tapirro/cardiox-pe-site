@@ -289,7 +289,19 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
+    <loc>https://cardiox.pe/para-ansiedad-cardiovascular/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://cardiox.pe/para-arritmia-cardiaca/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://cardiox.pe/para-arteriosclerosis/</loc>
     <lastmod>2026-04-15</lastmod>
     <priority>0.8</priority>
     <changefreq>weekly</changefreq>
@@ -308,6 +320,12 @@
   </url>
   <url>
     <loc>https://cardiox.pe/para-circulacion-piernas/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://cardiox.pe/para-claudicacion-intermitente/</loc>
     <lastmod>2026-04-15</lastmod>
     <priority>0.8</priority>
     <changefreq>weekly</changefreq>
@@ -409,6 +427,12 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
+    <loc>https://cardiox.pe/para-pie-diabetico-prevencion/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://cardiox.pe/para-piernas-cansadas/</loc>
     <lastmod>2026-04-15</lastmod>
     <priority>0.8</priority>
@@ -416,6 +440,12 @@
   </url>
   <url>
     <loc>https://cardiox.pe/para-pre-diabetes-cardiovascular/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://cardiox.pe/para-pre-infarto-prevencion/</loc>
     <lastmod>2026-04-15</lastmod>
     <priority>0.8</priority>
     <changefreq>weekly</changefreq>
@@ -439,13 +469,31 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
+    <loc>https://cardiox.pe/para-resistencia-insulina/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://cardiox.pe/para-retencion-de-liquidos/</loc>
     <lastmod>2026-04-15</lastmod>
     <priority>0.8</priority>
     <changefreq>weekly</changefreq>
   </url>
   <url>
+    <loc>https://cardiox.pe/para-rigidez-arterial/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://cardiox.pe/para-sindrome-metabolico/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://cardiox.pe/para-soplo-cardiaco/</loc>
     <lastmod>2026-04-15</lastmod>
     <priority>0.8</priority>
     <changefreq>weekly</changefreq>
@@ -635,53 +683,5 @@
     <lastmod>2026-04-15</lastmod>
     <priority>0.5</priority>
     <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://cardiox.pe/para-soplo-cardiaco/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://cardiox.pe/para-pre-infarto-prevencion/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://cardiox.pe/para-resistencia-insulina/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://cardiox.pe/para-arteriosclerosis/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://cardiox.pe/para-ansiedad-cardiovascular/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://cardiox.pe/para-pie-diabetico-prevencion/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://cardiox.pe/para-rigidez-arterial/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://cardiox.pe/para-claudicacion-intermitente/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>
 </urlset>
