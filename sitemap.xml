@@ -703,6 +703,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://cardiox.pe/condiciones/arritmia-y-cafeina-peru/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://cardiox.pe/condiciones/arritmia-y-energia-bebidas-peru/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
@@ -747,6 +753,12 @@
   <url>
     <loc>https://cardiox.pe/condiciones/claudicacion-intermitente/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://cardiox.pe/condiciones/colesterol-alto-y-pollo-broaster/</loc>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -931,6 +943,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://cardiox.pe/condiciones/hipertension-y-comida-salada-peruana/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://cardiox.pe/condiciones/hipertension-y-embarazo-peru/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
@@ -968,6 +986,12 @@
   </url>
   <url>
     <loc>https://cardiox.pe/condiciones/insuficiencia-venosa-cronica/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://cardiox.pe/condiciones/insuficiencia-venosa-y-calor-lima/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
@@ -1028,6 +1052,12 @@
   </url>
   <url>
     <loc>https://cardiox.pe/condiciones/presion-alta-y-estres-lima/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://cardiox.pe/condiciones/presion-alta-y-falta-de-sueno/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
