@@ -697,6 +697,18 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://cardiox.pe/condiciones/arritmia-y-cafe-peruano/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://cardiox.pe/condiciones/arritmia-y-energia-bebidas-peru/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://cardiox.pe/condiciones/arteriosclerosis/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -763,6 +775,18 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://cardiox.pe/condiciones/colesterol-y-comida-criolla/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://cardiox.pe/condiciones/colesterol-y-pollo-a-la-brasa/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://cardiox.pe/condiciones/corazon-e-inflamacion-cronica/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -775,8 +799,20 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://cardiox.pe/condiciones/corazon-y-ansiedad/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://cardiox.pe/condiciones/corazon-y-apnea-del-sueno/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://cardiox.pe/condiciones/corazon-y-cerveza-peru/</loc>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -787,14 +823,44 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://cardiox.pe/condiciones/corazon-y-comida-procesada/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://cardiox.pe/condiciones/corazon-y-contaminacion-lima/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://cardiox.pe/condiciones/corazon-y-diabetes/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://cardiox.pe/condiciones/corazon-y-menopausia-peru/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://cardiox.pe/condiciones/corazon-y-sedentarismo/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://cardiox.pe/condiciones/corazon-y-trabajo-de-pie/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://cardiox.pe/condiciones/corazon-y-trabajo-minero-peru/</loc>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -835,6 +901,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://cardiox.pe/condiciones/fibrilacion-auricular/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://cardiox.pe/condiciones/higado-graso/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -853,6 +925,18 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://cardiox.pe/condiciones/hipertension-y-comida-criolla/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://cardiox.pe/condiciones/hipertension-y-embarazo-peru/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://cardiox.pe/condiciones/hipertension/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -865,6 +949,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://cardiox.pe/condiciones/infarto-prevencion-peru/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://cardiox.pe/condiciones/insuficiencia-cardiaca-apoyo/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -873,6 +963,12 @@
   <url>
     <loc>https://cardiox.pe/condiciones/insuficiencia-cardiaca/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://cardiox.pe/condiciones/insuficiencia-venosa-cronica/</loc>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -919,14 +1015,38 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://cardiox.pe/condiciones/piernas-pesadas-circulacion/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://cardiox.pe/condiciones/presion-alta-por-estres/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://cardiox.pe/condiciones/presion-alta-y-estres-lima/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://cardiox.pe/condiciones/presion-alta-y-taxi-lima/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://cardiox.pe/condiciones/presion-alta/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://cardiox.pe/condiciones/prevencion-avc-peru/</loc>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -985,8 +1105,20 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://cardiox.pe/condiciones/trigliceridos-altos-joven/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://cardiox.pe/condiciones/trigliceridos-altos/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://cardiox.pe/condiciones/varices-y-trabajo-de-pie-peru/</loc>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -1063,6 +1195,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://cardiox.pe/ingrediente/potasio-magnesio/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://cardiox.pe/ingrediente/potasio/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.5</priority>
@@ -1091,11 +1229,5 @@
     <lastmod>2026-04-16</lastmod>
     <priority>0.5</priority>
     <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://cardiox.pe/ingrediente/potasio-magnesio/</loc>
-    <lastmod>2026-04-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>
 </urlset>
