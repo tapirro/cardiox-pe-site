@@ -602,7 +602,7 @@
   </url>
   <url>
     <loc>https://cardiox.pe/ingredientes/</loc>
-    <lastmod>2026-04-17</lastmod>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -710,7 +710,7 @@
   </url>
   <url>
     <loc>https://cardiox.pe/condiciones/</loc>
-    <lastmod>2026-04-16</lastmod>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -783,6 +783,12 @@
   <url>
     <loc>https://cardiox.pe/condiciones/circulacion-cerebral/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://cardiox.pe/condiciones/circulacion-deficiente/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -979,6 +985,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://cardiox.pe/condiciones/hipertension-gestacional/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://cardiox.pe/condiciones/hipertension-pulmonar/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -1051,6 +1063,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://cardiox.pe/condiciones/insuficiencia-venosa/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://cardiox.pe/condiciones/mala-circulacion/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -1071,6 +1089,12 @@
   <url>
     <loc>https://cardiox.pe/condiciones/palpitaciones-nocturnas/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://cardiox.pe/condiciones/palpitaciones/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -1165,6 +1189,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://cardiox.pe/condiciones/retencion-de-liquidos-cardiovascular/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://cardiox.pe/condiciones/retencion-de-liquidos/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -1209,6 +1239,12 @@
   <url>
     <loc>https://cardiox.pe/condiciones/trigliceridos-altos/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://cardiox.pe/condiciones/trombosis-venosa/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -1277,41 +1313,5 @@
     <lastmod>2026-04-16</lastmod>
     <priority>0.5</priority>
     <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://cardiox.pe/condiciones/insuficiencia-venosa/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://cardiox.pe/condiciones/trombosis-venosa/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://cardiox.pe/condiciones/retencion-de-liquidos-cardiovascular/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://cardiox.pe/condiciones/circulacion-deficiente/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://cardiox.pe/condiciones/palpitaciones/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://cardiox.pe/condiciones/hipertension-gestacional/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>
 </urlset>
