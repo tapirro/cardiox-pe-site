@@ -487,6 +487,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://cardiox.pe/ingrediente/cromo/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://cardiox.pe/ingrediente/curcuma/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.7</priority>
@@ -495,6 +501,12 @@
   <url>
     <loc>https://cardiox.pe/ingrediente/espino-blanco/</loc>
     <lastmod>2026-04-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://cardiox.pe/ingrediente/hierro/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -513,6 +525,12 @@
   <url>
     <loc>https://cardiox.pe/ingrediente/magnesio/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://cardiox.pe/ingrediente/niacina/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -561,6 +579,12 @@
   <url>
     <loc>https://cardiox.pe/ingrediente/te-verde/</loc>
     <lastmod>2026-04-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://cardiox.pe/ingrediente/vitamina-b1/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -721,6 +745,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://cardiox.pe/condiciones/aneurisma-aortico/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://cardiox.pe/condiciones/aneurisma-prevencion/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -771,6 +801,12 @@
   <url>
     <loc>https://cardiox.pe/condiciones/aterosclerosis/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://cardiox.pe/condiciones/bradicardia/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -931,6 +967,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://cardiox.pe/condiciones/dislipidemia-cardiovascular/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://cardiox.pe/condiciones/dislipidemia-mixta/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -943,8 +985,26 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://cardiox.pe/condiciones/edema-periferico/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://cardiox.pe/condiciones/endocarditis-prevencion/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://cardiox.pe/condiciones/endocarditis/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://cardiox.pe/condiciones/enfermedad-arterial-periferica/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -1313,29 +1373,5 @@
     <lastmod>2026-04-16</lastmod>
     <priority>0.5</priority>
     <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://cardiox.pe/ingrediente/niacina/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://cardiox.pe/ingrediente/vitamina-b1/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://cardiox.pe/ingrediente/hierro/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://cardiox.pe/ingrediente/cromo/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>
 </urlset>
