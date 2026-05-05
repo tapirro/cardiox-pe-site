@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://cardiox.pe/sitemap.xml
+Sitemap: https://cardiox.pe/sitemap-priority.xml
